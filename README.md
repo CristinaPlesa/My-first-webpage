@@ -2,7 +2,7 @@
 
 #### Introduction to some of my favorite places, people, and things.
 
-#### By Seth Medeiros and Cristina Plesa
+#### By Cristina Plesa and Seth Medeiros
 
 ## Technologies Used
 
